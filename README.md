@@ -1,0 +1,1 @@
+# Demo for Azure MySQL access from Java with Managed Identity (VM)

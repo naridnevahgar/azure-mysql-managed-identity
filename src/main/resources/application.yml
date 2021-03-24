@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: AzureMySQLManagedIdentityDemo
+  datasource:
+    type: com.zaxxer.hikari.HikariDataSource
